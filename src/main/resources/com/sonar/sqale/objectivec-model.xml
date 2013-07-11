@@ -1,0 +1,19 @@
+<sqale>
+	<chc>
+		<key>LANGUAGE_RELATED_PORTABILITY</key>
+		<name>Language related portability</name>
+		<chc>
+			<rule-repo>objc</rule-repo>
+			<rule-key>InequalityUsage</rule-key>
+			<prop>
+				<key>remediationFunction</key>
+				<txt>linear</txt>
+			</prop>
+			<prop>
+				<key>remediationFactor</key>
+				<val>20.0</val>
+				<txt>mn</txt>
+			</prop>
+		</chc>
+	</chc>
+</sqale>
